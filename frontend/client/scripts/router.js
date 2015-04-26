@@ -8,12 +8,9 @@ Router.map(function() {
     path: '/'
   });
 
-  this.route('mapsPage', {
-    path: '/maps'
+  this.route('singlePage', {
+    path: '/single'
   });
-
-  this.route('thanksPage', {
-  	path:'/thanks'
-  });
+  
 });
 
