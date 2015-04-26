@@ -9,7 +9,6 @@
 }
 .cb-slideshow:after {
     content: '';
-    background: transparent url(../images/pattern.png) repeat top left;
 }
 .cb-slideshow li span {
     width: 100%;
@@ -76,7 +75,7 @@
     animation-delay: 18s;
 }
 .cb-slideshow li:nth-child(5) span {
-    background-image: url(../images/slib.jpg);
+    background-image: url(../images/Slib.jpg);
     -webkit-animation-delay: 24s;
     -moz-animation-delay: 24s;
     -o-animation-delay: 24s;
